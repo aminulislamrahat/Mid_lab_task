@@ -19,7 +19,7 @@
 				<tr>
 					<td></td>
 					<td><input type="submit" name="submit_bt" value="login" id="submit_bt"></td>
-					<td><a href="signup.php"> Don't have any account? Create one </a></td>
+					<td><a href="signup"> Don't have any account? Create one </a></td>
 				</tr>
 			
 			
